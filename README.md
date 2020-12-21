@@ -5,3 +5,4 @@ Database used: MongoDB
 
 Tools used for testing: Fiddler
 
+Images are in src/main/resources folder. Refer for the same
